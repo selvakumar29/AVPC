@@ -1,5 +1,5 @@
 /* CSS Document  s*/ 
-/*--------------------------------------body---*/
+/*-------------------------------------- body---*/
 body, input, label {
 	color:#63664b;
 	font:normal 14px/17px Arial, Helvetica, sans-serif;
@@ -7,7 +7,7 @@ body, input, label {
 input, select {
 	color:#939393;
 	margin-top:0px;
-	font-size:12px;
+	font-size:12px; 
 	line-height:normal;
 	padding:4px 5px 4px 5px;
 }
@@ -24,7 +24,7 @@ fieldset td {padding:2px 0 2px 0;}
 
 h3 { line-height:1.2em; color:#333;}
 h2 { line-height:1.2em; color:#333;}
-/*----------------------------------------------------------content---*/
+/*-------------------------- --------------------------------content---*/
 
 /*-----------------------------article_settings-*/
 h6 {
